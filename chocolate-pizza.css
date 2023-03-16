@@ -317,3 +317,6 @@ hr{
     margin-bottom: 30px;
 }
 
+.LT{
+    text-decoration: line-through;
+}
